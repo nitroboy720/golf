@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "bulma": "^0.7.5",
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   }
 }
